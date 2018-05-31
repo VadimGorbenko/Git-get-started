@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 echo "Good bye and good luck!";
-=======
-echo "Bye";
-console.log('good bye by Alex Ross');
->>>>>>> new-fix
