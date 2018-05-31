@@ -1,4 +1,4 @@
 echo "Hello world";
 echo "Hello to everybody!";
 /*Alex was here*/
-echo "Hello mom and dad! p.s. Its Alex!"
+/*Alex, мы удалили твой привет родителям. Это не профессионально!*/
